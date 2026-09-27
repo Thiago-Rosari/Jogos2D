@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HelloWindows.vcxproj" Id="4de2fde4-5558-4a68-927f-536e3e989a00" />
+  <Project Path="MessageBox.vcxproj" Id="c666c5cb-5648-432a-ae5b-48bfc13f236f" />
 </Solution>

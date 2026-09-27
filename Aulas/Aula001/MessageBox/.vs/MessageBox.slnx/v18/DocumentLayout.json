@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\th_ma\\Documentos\\Jogos2D\\Aulas\\Aula001\\MessageBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C666C5CB-5648-432A-AE5B-48BFC13F236F}|MessageBox.vcxproj|C:\\Users\\th_ma\\Documentos\\Jogos2D\\Aulas\\Aula001\\MessageBox\\MessageBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C666C5CB-5648-432A-AE5B-48BFC13F236F}|MessageBox.vcxproj|solutionrelative:MessageBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageBox.cpp",
+              "DocumentMoniker": "C:\\Users\\th_ma\\Documentos\\Jogos2D\\Aulas\\Aula001\\MessageBox\\MessageBox.cpp",
+              "RelativeDocumentMoniker": "MessageBox.cpp",
+              "ToolTip": "C:\\Users\\th_ma\\Documentos\\Jogos2D\\Aulas\\Aula001\\MessageBox\\MessageBox.cpp",
+              "RelativeToolTip": "MessageBox.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T14:09:16.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
